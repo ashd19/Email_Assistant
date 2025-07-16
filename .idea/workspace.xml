@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca435b18-47f0-4655-875f-9c73bfac456f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/emailAssistant.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ash/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ash/.idea/ash.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ash/.idea/compiler.xml" beforeDir="false" />
@@ -22,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/ash/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ash/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ash/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/Ashton's Resume.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ash/Email-assistant" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ash/README.md" beforeDir="false" />
     </list>
@@ -56,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/ash",
     "last_opened_file_path": "C:/Users/ashto/Downloads/emailAssistant",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
