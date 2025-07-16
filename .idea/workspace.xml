@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca435b18-47f0-4655-875f-9c73bfac456f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/emailAssistant.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/ash.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/Email-assistant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ash/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2z3JcpWLuZM9yRYnvgw6mTETu1N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoApplication.executor": "Run",
+    "Application.emailassistant.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ashto/Downloads/emailAssistant",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="emailassistant" type="Application" factoryName="Application">
+      <envs>
+        <env name="DB_PASSWORD" value="ashton" />
+        <env name="DB_USERNAME" value="root" />
+        <env name="GEMINI_KEY" value="AIzaSyAlFcAOeyQuQL7AXzR6_DX_LYDwMpraxdA" />
+        <env name="GEMINI_URL" value="v1beta/models/gemini-2.0-flash:generateContent" />
+        <env name="GIT_ID" value="Ov23lixdNUdhHhfDC3Dn" />
+        <env name="GIT_SECRET" value="8416d9f6fb95a6eb6e70ccae325c8a8ef21b195c " />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca435b18-47f0-4655-875f-9c73bfac456f" name="Changes" comment="" />
+      <created>1750953906006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750953906006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ash" />
+      <path value="$PROJECT_DIR$/ash/Email-assistant" />
+      <path value="$PROJECT_DIR$/frontend/email-assistant" />
+    </ignored-roots>
+  </component>
+</project>
