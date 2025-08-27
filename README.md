@@ -34,4 +34,12 @@ This project demonstrates integration of **AI into backend workflows**, showcasi
 ---
 
 ## 📂 Project Structure  
-
+email-assistant/
+│── src/main/java/com/ashton/emailassistant/
+│ ├── controller/ # API controllers
+│ ├── service/ # Business logic + Gemini API integration
+│ ├── entity/ # Models
+│ ├── config/ # Security/JWT setup
+│── src/main/resources/
+│ ├── application.yml # Configurations
+│── README.md
